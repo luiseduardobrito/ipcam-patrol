@@ -1,0 +1,15 @@
+{
+  "name": "ipcam-patrol",
+  "version": "0.0.1",
+  "description": "ipcam patrol system for rep babs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Eduardo Brito <luiseduardo14@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "commander": "~2.0.0",
+    "request": "~2.27.0"
+  }
+}
